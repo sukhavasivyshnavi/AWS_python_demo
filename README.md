@@ -11,4 +11,4 @@ This project showcases my ability to work with AWS services using Python.
 ## 📁 Files
 - `upload_to_s3.py`: Uploads a file from local to an AWS S3 bucket
 - `demo_file.txt`: Sample file to be uploaded
-- `/screenshots/`: Images of EC2 & S3 setup
+- `/screenshots/`: Image of S3 setup
